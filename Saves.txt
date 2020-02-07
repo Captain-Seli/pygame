@@ -1,0 +1,8 @@
+Jon	100
+Bob	70
+Jim	-3
+James	900
+Rob	93
+Max	0
+Danya	27
+Test	0
